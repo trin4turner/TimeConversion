@@ -1,1 +1,1 @@
-This is a progrsm that does time conversions
+This is a program that does time conversions
